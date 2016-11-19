@@ -5,7 +5,7 @@ feature 'instagram user' do
     scenario 'should display a prompt to add a photo' do
       visit '/photos'
       expect(page).to have_content "No photo's yet"
-      expect(page).to have_link 'Add a Photo'
+      expect(page).to have_link 'Add a photo'
     end
   end
 end
