@@ -1,3 +1,52 @@
+User stories
+=============================
+As a user,
+I want to be able to sign up to Instagram
+So that I can start using it.
+
+As a user,
+I want to login to Instagram
+So that I can continue using it.
+
+As a user,
+I want to follow my friends,
+So that I can view only their photo's.
+
+As a user,
+I want the button follow to turn to following
+So that I know I am successfully following my friends
+
+As a user,
+I want to see how many followers I have,
+So I know how many followers I have.
+
+As a user,
+I want to see how many friends I am following,
+So I know how many friends I am following. 
+
+As a User,
+I want to upload a photo,
+So that friends can see it.
+
+As a user,
+I want to be able to view all the most recent photo's,
+So I can view all my friends photo's.
+
+As a user,
+I want to be able to 'like' my friends photo's
+So that they know that I like it.
+
+As a user,
+I want to write comments under a photo,
+So that I can share my thoughts.
+
+As a user,
+I want to be able to search by name
+So that I can select what I view.
+
+======================================
+
+
 Instagram Challenge
 ===================
 
